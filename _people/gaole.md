@@ -5,7 +5,7 @@ supervisor: Ujwal Gadiraju, Geert-Jan Houben
 filter: 5
 theme-filter: 5
 team: kappa
-linkedin: 
+linkedin: https://www.linkedin.com/in/gaole-he-b3117019a/
 twitter: https://twitter.com/HeGaole
 github: https://github.com/RichardHGL
 image: gaole.he.jpg
@@ -16,4 +16,4 @@ publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/
 ---
 
 
-More information and a full list of publications can be found on his personal website: [].
+More information and a full list of publications can be found on his personal website: [https://richardhgl.github.io/].

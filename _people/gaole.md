@@ -15,5 +15,7 @@ publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/
 
 ---
 
+Gaole He is a PhD candidate at the Web Information Systems group of the Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI), Delft University of Technology. His PhD topic focuses on Human-centered AI. Sihang also has broad interests in Crowd Computing, Human-Computer Interaction and natural language processing.
 
-More information and a full list of publications can be found on his personal website: [].
+More information and a full list of publications can be found on his personal website: [https://richardhgl.github.io/].
+

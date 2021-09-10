@@ -8,7 +8,7 @@ team: kappa
 linkedin: 
 twitter: https://twitter.com/HeGaole
 github: https://github.com/RichardHGL
-image: gaole.he.png
+image: gaole.he.jpg
 email: g.he@tudelft.nl
 back: gaole.html
 publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/

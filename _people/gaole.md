@@ -6,8 +6,8 @@ filter: 5
 theme-filter: 5
 team: kappa
 linkedin: 
-twitter: https://twitter.com/
-github: https://github.com/
+twitter: https://twitter.com/HeGaole
+github: https://github.com/RichardHGL
 image: gaole.he.png
 email: g.he@tudelft.nl
 back: gaole.html
